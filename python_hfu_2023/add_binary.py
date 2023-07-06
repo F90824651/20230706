@@ -9,3 +9,4 @@ if __name__ == '__main__':
     b = '1101'
     answer = add_binary_string(a, b)
     print(answer)
+    #123
